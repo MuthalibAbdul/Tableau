@@ -1,1 +1,8 @@
 https://public.tableau.com/app/profile/muthalib.abdul7040/viz/Book1_16667998159790/Covid-19CasesDeathsDashboard
+I have used data from 3 different sources Kaggle, nytimes & WHO.
+These series of sheets and dashboards consists of covid cases and deaths throughout the world and in the United States. 
+Dashboards are towards to end of the file. There are 6 dashboards.
+First dashboard shows the number of cases and deaths in the world
+Second dashboard shows the number of cases in the US.
+The last 4 dashboards show region specific Cases & Deaths in the US (Pacific, Mountain, Central & Eastern)
+Some regions like central and Eastern line graphs may not show a clear variation but we do get a good sense of appreciation on the trends.
